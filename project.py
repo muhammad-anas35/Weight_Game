@@ -4,7 +4,7 @@ Jupiter : float = 24.79
 Saturn : float = 10.44
 Uranus : float = 8.69
 Neptune : float = 11.15
-Venus : float =8.87
+Venus : float = 8.87
 
 prompt_1 :str = "Enter your weight on earth : "
 prompt_2 :str = "Enter a planet to claculate your weight on it : "
